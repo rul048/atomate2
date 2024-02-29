@@ -35,7 +35,7 @@
 * Update lobsterpy version by @naik-aakash in https://github.com/materialsproject/atomate2/pull/683
 * Fix all ruff PT011 (not checking error message when testing exceptions) by @janosh in https://github.com/materialsproject/atomate2/pull/698
 
-## New Contributors
+### New Contributors
 * @JonathanSchmidt1 made their first contribution in https://github.com/materialsproject/atomate2/pull/648
 * @rdguha1995 made their first contribution in https://github.com/materialsproject/atomate2/pull/161
 * @JiQi535 made their first contribution in https://github.com/materialsproject/atomate2/pull/716
